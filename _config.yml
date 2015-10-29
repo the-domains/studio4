@@ -1,0 +1,23 @@
+name: Studio4
+favicon: null
+layout_spectrum: 0.29817458847537637
+typography_spectrum: 0.44381365762092173
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8672402070369571
+  lightness: 0.11828115466050804
+  saturation: 0.2661051896866411
+  rhythmicContrast: 0.7042426487896591
+purpose: []
