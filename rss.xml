@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Studio4]]></title>
+        <description><![CDATA[Studio4]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 29 Oct 2015 23:24:00 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home page]]></title>
+            <description><![CDATA[<article><h1>Home page</h1><p>Welcome to Studio4, formerly The 4th St. Studio! Sometimes we go by both. Either way, we are glad you found us! We are located at 509 7th St and are here to provide you with excellent service, knowledgeable stylists, and a fantastic experience. </p></article>]]></description>
+            <link>undefinedhome-page/index.html</link>
+            <guid isPermaLink="false">c2f1e3c0-cc64-4d15-ac6b-e47d60135bdb</guid>
+            <pubDate>Thu, 29 Oct 2015 23:23:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
