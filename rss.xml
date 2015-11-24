@@ -4,7 +4,7 @@
         <description><![CDATA[Studio4]]></description>
         <link>https://thegrid.ai/studio4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 23:35:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 23:35:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studio4/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/studio4/home-page/index.html</link>
             <guid isPermaLink="false">c2f1e3c0-cc64-4d15-ac6b-e47d60135bdb</guid>
             <pubDate>Tue, 24 Nov 2015 23:34:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Services]]></title>
-            <description><![CDATA[<article><h1>Services</h1><p>Cuts & Styles</p></article>]]></description>
-            <link>https://thegrid.ai/studio4/services/index.html</link>
-            <guid isPermaLink="false">95c71473-d07d-47b5-bb93-c43c088cfd8e</guid>
-            <pubDate>Tue, 24 Nov 2015 23:29:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
