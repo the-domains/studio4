@@ -4,7 +4,7 @@
         <description><![CDATA[Studio4]]></description>
         <link>https://thegrid.ai/studio4/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 Nov 2015 23:36:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Nov 2015 23:45:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studio4/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/studio4/home-page/index.html</link>
             <guid isPermaLink="false">c2f1e3c0-cc64-4d15-ac6b-e47d60135bdb</guid>
             <pubDate>Tue, 24 Nov 2015 23:34:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Our Team]]></title>
+            <description><![CDATA[<article><h1>Our Team</h1><p>LAURA WEIMEYER-KEITA</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/39752c48-5f77-4486-a6ac-f34e899f1c7f.png"></article>]]></description>
+            <link>https://thegrid.ai/studio4/our-team/index.html</link>
+            <guid isPermaLink="false">6db7ef29-f220-4e5b-a90b-0f922fe3f051</guid>
+            <pubDate>Tue, 24 Nov 2015 23:44:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Services]]></title>
