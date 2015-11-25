@@ -7,19 +7,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-25T00:20:18.468Z'
-dateModified: '2015-11-25T00:20:05.215Z'
+datePublished: '2015-11-25T00:57:02.569Z'
+dateModified: '2015-11-25T00:56:58.264Z'
 title: Business Hours
 author: []
+sourcePath: _posts/2015-11-25-business-hours.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-25-business-hours.md
-published: true
 _type: Blurb
 
 ---
-Monday: by Special RequestTuesday - Friday: 10am - 7pmSaturday: 9am - 3pmSunday: Closed
+Monday: by Special Request
+
+Tuesday - Friday: 10am - 7pm
+
+Saturday: 9am - 3pm
+
+Sunday: Closed
