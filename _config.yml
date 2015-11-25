@@ -1,6 +1,6 @@
 name: Studio4
 favicon: null
-layout_spectrum: 0.7491
+layout_spectrum: 0.48269
 typography_spectrum: 0.56419
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#493a2a'
     - '#706239'
   brandStrength: 0.8672402070369571
-  lightness: 0.375
+  lightness: 0.5
   saturation: 0.9375
   rhythmicContrast: 0.5
 purpose: []
